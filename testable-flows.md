@@ -1,6 +1,8 @@
-(Add your list of flows here)
+
 npm audit fix --force
+
 yarn install
+
 run yarn start
 
 Make sure to install playwright by using : 
