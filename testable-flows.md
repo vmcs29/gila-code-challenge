@@ -1,7 +1,7 @@
 (Add your list of flows here)
 npm audit fix --force
 yarn install
-correr el yarn start
+run yarn start
 
 Make sure to install playwright by using : 
 `npm i` to install all node modules
