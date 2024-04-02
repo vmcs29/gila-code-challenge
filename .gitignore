@@ -27,3 +27,4 @@ yarn-error.log*
 /blob-report/
 /playwright/.cache/
 .idea
+yarn.lock
