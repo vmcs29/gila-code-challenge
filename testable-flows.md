@@ -23,3 +23,8 @@ Launches the webserver, and executes the existing Playwright Tests.
 * If the application needs refinement it can be implemented while creating new mocks.
 * Make sure to have usernames that contain valid PUBLIC  repos in order to create a search
 * Discard the private repos while parametrizing test data.
+
+
+![evidence 1](evidence/ev-1.png)
+
+![evidence 1](evidence/ev-2.png)
